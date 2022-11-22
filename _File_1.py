@@ -5,3 +5,7 @@ print(a)
 print("Testing")
 b = 15
 
+# some new code
+for i in range(1, 14):
+    print(i)
+
